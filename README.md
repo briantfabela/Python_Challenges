@@ -1,2 +1,3 @@
 # Python_Challenges
-Progressively more complex Python projects for practice
+
+Small python projects, Scripts, and functions for later reference in larger projects
